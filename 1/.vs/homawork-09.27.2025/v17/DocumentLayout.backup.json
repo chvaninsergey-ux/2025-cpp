@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DAF068F-6AC7-45A2-AEC4-E2B9A8BDB232}|..\\2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0CCA5C6-6DFA-4CDD-A9C7-0FA2B1FA20B9}|..\\21\\21.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -13,8 +16,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
+              "RelativeDocumentMoniker": "..\\2\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
+              "RelativeToolTip": "..\\2\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T15:10:08.537Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -25,13 +41,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp",
               "RelativeDocumentMoniker": "..\\21\\source.cpp",
               "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp",
               "RelativeToolTip": "..\\21\\source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-29T22:42:23.302Z",
               "EditorCaption": ""

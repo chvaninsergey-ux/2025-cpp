@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0CCA5C6-6DFA-4CDD-A9C7-0FA2B1FA20B9}|..\\21\\21.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD753CF-FE0D-4FFA-B0AF-B6DE8A797D66}|..\\20\\20.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\20\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DAF068F-6AC7-45A2-AEC4-E2B9A8BDB232}|..\\2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0CCA5C6-6DFA-4CDD-A9C7-0FA2B1FA20B9}|..\\21\\21.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8A5F694C-E4C1-4369-9434-85B8418DB56C}|..\\19\\19.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\19\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88853A50-1D41-4E67-B313-C4B59E132FA5}|..\\13\\13.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\13\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1924D8B2-0DFB-4154-83C7-5DEC1C6BF717}|..\\12\\12.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\12\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D375A2-5F00-4F70-BEC1-E18B2F4A94E0}|..\\10\\10.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,19 +31,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.cpp",
-              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
-              "RelativeDocumentMoniker": "..\\2\\source.cpp",
-              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
-              "RelativeToolTip": "..\\2\\source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\20\\source.cpp",
+              "RelativeDocumentMoniker": "..\\20\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\20\\source.cpp",
+              "RelativeToolTip": "..\\20\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T15:10:08.537Z",
+              "WhenOpened": "2025-10-07T00:53:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\19\\source.cpp",
+              "RelativeDocumentMoniker": "..\\19\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\19\\source.cpp",
+              "RelativeToolTip": "..\\19\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T00:52:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\13\\source.cpp",
+              "RelativeDocumentMoniker": "..\\13\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\13\\source.cpp",
+              "RelativeToolTip": "..\\13\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T00:52:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\12\\source.cpp",
+              "RelativeDocumentMoniker": "..\\12\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\12\\source.cpp",
+              "RelativeToolTip": "..\\12\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T00:51:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10\\source.cpp",
+              "RelativeDocumentMoniker": "..\\10\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10\\source.cpp",
+              "RelativeToolTip": "..\\10\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T00:50:58.901Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
+              "RelativeDocumentMoniker": "..\\2\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\2\\source.cpp",
+              "RelativeToolTip": "..\\2\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T15:10:08.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\21\\source.cpp",
               "RelativeDocumentMoniker": "..\\21\\source.cpp",
