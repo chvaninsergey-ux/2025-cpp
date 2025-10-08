@@ -7,6 +7,6 @@ int main(int argc, char** argv)
 	scanf_s("%lld", &a);
 	scanf_s("%lld", &b);
 	scanf_s("%lld", &c);
-	printf("%lld", a+b+c);
+	printf("%lld", a + b + c);
 	return 0;
 }
