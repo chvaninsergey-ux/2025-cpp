@@ -24,6 +24,7 @@
     <ProjectGuid>{02a6a81b-84c5-4aca-b6bf-b3f8affbbba5}</ProjectGuid>
     <RootNamespace>dop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>dop1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
