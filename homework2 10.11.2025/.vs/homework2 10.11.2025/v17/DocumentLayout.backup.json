@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A6A81B-84C5-4ACA-B6BF-B3F8AFFBBBA5}|dop\\dop.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\dop\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02A6A81B-84C5-4ACA-B6BF-B3F8AFFBBBA5}|dop\\dop.vcxproj|solutionrelative:dop\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF973DAA-167A-44F7-BA64-9F930745984C}|2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF973DAA-167A-44F7-BA64-9F930745984C}|2\\2.vcxproj|solutionrelative:2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF7D6A3-02BF-459C-A5F2-B0FA7C2AC2B3}|5\\5.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AF7D6A3-02BF-459C-A5F2-B0FA7C2AC2B3}|5\\5.vcxproj|solutionrelative:5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04374BFF-2E53-4697-90EF-BD3B22A0010C}|6\\6.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04374BFF-2E53-4697-90EF-BD3B22A0010C}|6\\6.vcxproj|solutionrelative:6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF773E6F-2016-45A6-BFB3-083B12D8F4D7}|4\\4.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF773E6F-2016-45A6-BFB3-083B12D8F4D7}|4\\4.vcxproj|solutionrelative:4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37D6DAE-FFEE-41DA-A56B-D1E788F6A07E}|3\\3.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E37D6DAE-FFEE-41DA-A56B-D1E788F6A07E}|3\\3.vcxproj|solutionrelative:3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEEDF97-9955-4DEC-B813-8DE414BE47CA}|1\\1.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AEEDF97-9955-4DEC-B813-8DE414BE47CA}|1\\1.vcxproj|solutionrelative:1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\dop\\source.cpp",
+              "RelativeDocumentMoniker": "dop\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\dop\\source.cpp*",
+              "RelativeToolTip": "dop\\source.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T08:12:00.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\6\\source.cpp",
+              "RelativeDocumentMoniker": "6\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\6\\source.cpp",
+              "RelativeToolTip": "6\\source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T11:33:08.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\5\\source.cpp",
+              "RelativeDocumentMoniker": "5\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\5\\source.cpp",
+              "RelativeToolTip": "5\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T11:11:42.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\4\\source.cpp",
+              "RelativeDocumentMoniker": "4\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\4\\source.cpp",
+              "RelativeToolTip": "4\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T07:13:39.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\2\\source.cpp",
+              "RelativeDocumentMoniker": "2\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\2\\source.cpp",
+              "RelativeToolTip": "2\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T20:17:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\3\\source.cpp",
+              "RelativeDocumentMoniker": "3\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\3\\source.cpp",
+              "RelativeToolTip": "3\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T18:19:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\1\\source.cpp",
+              "RelativeDocumentMoniker": "1\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\homework2 10.11.2025\\1\\source.cpp",
+              "RelativeToolTip": "1\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T18:07:29.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

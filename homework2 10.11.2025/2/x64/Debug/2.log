@@ -1,0 +1,2 @@
+﻿source2.obj : error LNK2005: main уже определен в source.obj
+D:\прога\2025-cpp\homework2 10.11.2025\x64\Debug\1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
