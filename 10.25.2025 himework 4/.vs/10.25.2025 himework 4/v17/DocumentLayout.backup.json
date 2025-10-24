@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92485A0D-6BDE-4F72-B5DA-19502C0ABD6D}|2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92485A0D-6BDE-4F72-B5DA-19502C0ABD6D}|2\\2.vcxproj|solutionrelative:2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC397B40-C885-4953-9E97-13E2B2347AF5}|4\\4.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC397B40-C885-4953-9E97-13E2B2347AF5}|4\\4.vcxproj|solutionrelative:4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6E3EF-8EE4-498C-BCB3-F4F0A602313F}|6\\6.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19D6E3EF-8EE4-498C-BCB3-F4F0A602313F}|6\\6.vcxproj|solutionrelative:6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D43B62C-9291-4C38-A009-1FD1CABCB809}|5\\5.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D43B62C-9291-4C38-A009-1FD1CABCB809}|5\\5.vcxproj|solutionrelative:5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6F703-E0EF-42A3-8CF5-071D642DE353}|3\\3.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59F6F703-E0EF-42A3-8CF5-071D642DE353}|3\\3.vcxproj|solutionrelative:3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7933FFA-E76B-4B96-BA1C-596C2DCB5BCD}|1\\1.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\1\\source .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7933FFA-E76B-4B96-BA1C-596C2DCB5BCD}|1\\1.vcxproj|solutionrelative:1\\source .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\6\\source.cpp",
+              "RelativeDocumentMoniker": "6\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\6\\source.cpp",
+              "RelativeToolTip": "6\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T00:28:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\5\\source.cpp",
+              "RelativeDocumentMoniker": "5\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\5\\source.cpp",
+              "RelativeToolTip": "5\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T00:23:27.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\4\\source.cpp",
+              "RelativeDocumentMoniker": "4\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\4\\source.cpp",
+              "RelativeToolTip": "4\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T22:55:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\3\\source.cpp",
+              "RelativeDocumentMoniker": "3\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\3\\source.cpp",
+              "RelativeToolTip": "3\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T22:43:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\2\\source.cpp",
+              "RelativeDocumentMoniker": "2\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\2\\source.cpp",
+              "RelativeToolTip": "2\\source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T22:05:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "source .cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\1\\source .cpp",
+              "RelativeDocumentMoniker": "1\\source .cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\10.25.2025 himework 4\\1\\source .cpp",
+              "RelativeToolTip": "1\\source .cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T21:51:07.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
