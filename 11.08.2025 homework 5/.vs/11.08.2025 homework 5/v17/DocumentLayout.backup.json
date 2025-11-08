@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9190E8-D91F-47B1-B139-FA281CE92C4B}|7\\7.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\7\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA9190E8-D91F-47B1-B139-FA281CE92C4B}|7\\7.vcxproj|solutionrelative:7\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A66BD8-369A-4C3B-BB11-55FAA6A5724A}|6\\6.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92A66BD8-369A-4C3B-BB11-55FAA6A5724A}|6\\6.vcxproj|solutionrelative:6\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6100E28F-E9E5-4EA3-86A7-1E275D5AABA9}|5\\5.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6100E28F-E9E5-4EA3-86A7-1E275D5AABA9}|5\\5.vcxproj|solutionrelative:5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEAE781-EE53-451B-9B42-F2735F688C00}|4\\4.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFEAE781-EE53-451B-9B42-F2735F688C00}|4\\4.vcxproj|solutionrelative:4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA428C-26DE-4101-9A89-17ADCABDD5AD}|3\\3.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67BA428C-26DE-4101-9A89-17ADCABDD5AD}|3\\3.vcxproj|solutionrelative:3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDBD786-CED6-4ED4-B1F8-EAE166B347FD}|2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\2\\sourse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CDBD786-CED6-4ED4-B1F8-EAE166B347FD}|2\\2.vcxproj|solutionrelative:2\\sourse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC0D54A-7821-4479-950A-7724E9C1A6F3}|1\\1.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEC0D54A-7821-4479-950A-7724E9C1A6F3}|1\\1.vcxproj|solutionrelative:1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\7\\source.cpp",
+              "RelativeDocumentMoniker": "7\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\7\\source.cpp",
+              "RelativeToolTip": "7\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:24:19.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\6\\source.cpp",
+              "RelativeDocumentMoniker": "6\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\6\\source.cpp",
+              "RelativeToolTip": "6\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:12:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\5\\source.cpp",
+              "RelativeDocumentMoniker": "5\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\5\\source.cpp",
+              "RelativeToolTip": "5\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:07:16.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\4\\source.cpp",
+              "RelativeDocumentMoniker": "4\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\4\\source.cpp",
+              "RelativeToolTip": "4\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:04:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\3\\source.cpp",
+              "RelativeDocumentMoniker": "3\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\3\\source.cpp",
+              "RelativeToolTip": "3\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:00:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sourse.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\2\\sourse.cpp",
+              "RelativeDocumentMoniker": "2\\sourse.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\2\\sourse.cpp",
+              "RelativeToolTip": "2\\sourse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T09:56:54.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\1\\source.cpp",
+              "RelativeDocumentMoniker": "1\\source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.08.2025 homework 5\\1\\source.cpp",
+              "RelativeToolTip": "1\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T19:46:57.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
