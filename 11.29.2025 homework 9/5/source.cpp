@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#include<cmath>
+
 typedef struct {
 	char* name;
 	char* surname;
@@ -9,7 +9,7 @@ typedef struct {
 	int phys;
 	int inf;
 } student;
-void init_student(student* s1, char* name, char* surname, int math, int phyz, int inf);
+void init_student(student* s1, char* name, char* surname, int math, int phys, int inf);
 int main(int argc, char** argv) {
 	int n = 0;
 	scanf_s("%d", &n);
@@ -23,7 +23,9 @@ int main(int argc, char** argv) {
 		int math = 0;
 		int phys = 0;
 		int inf = 0;
-		scanf_s("%49s %49s %d %d %d", name, surname, &math, &phys, &inf);
+		fgets(name, sizeof(name), stdin);
+		fgets(surname, sizeof(surname), stdin);
+		scanf_s("%d %d %d", &math, &phys, &inf);
 		init_student(&students[i], name, surname, math, phys, inf);
 		sum_math += math;
 		sum_phys += phys;

@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42411C03-4897-4A52-951E-EFCA3F375AEB}|9\\9.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\9\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42411C03-4897-4A52-951E-EFCA3F375AEB}|9\\9.vcxproj|solutionrelative:9\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44E3F2F6-242E-4560-A293-8983CEC69AF9}|5\\5.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44E3F2F6-242E-4560-A293-8983CEC69AF9}|5\\5.vcxproj|solutionrelative:5\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\gs_report.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D30EE-892A-486F-BB3A-94B52E0807E5}|1\\1.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B1D30EE-892A-486F-BB3A-94B52E0807E5}|1\\1.vcxproj|solutionrelative:1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E1F2339-7672-4744-972D-2E0459EAA354}|4\\4.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,10 +27,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65C1E57C-9C27-4804-9964-0F8250F33F49}|2\\2.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{65C1E57C-9C27-4804-9964-0F8250F33F49}|2\\2.vcxproj|solutionrelative:2\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B1D30EE-892A-486F-BB3A-94B52E0807E5}|1\\1.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B1D30EE-892A-486F-BB3A-94B52E0807E5}|1\\1.vcxproj|solutionrelative:1\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,37 +50,44 @@
         },
         {
           "DockedHeight": 71,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "source.cpp",
-              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\9\\source.cpp",
-              "RelativeDocumentMoniker": "9\\source.cpp",
-              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\9\\source.cpp*",
-              "RelativeToolTip": "9\\source.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-12T02:15:17.147Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "gs_report.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\gs_report.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\gs_report.c",
+              "ViewState": "AgIAAM4AAAAAAAAAAADgv9sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-12T14:01:48.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAD0EAAAAAAAAAAAnwEoEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-12T14:00:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\5\\source.cpp",
               "RelativeDocumentMoniker": "5\\source.cpp",
               "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\5\\source.cpp",
               "RelativeToolTip": "5\\source.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAjwBYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-12T01:23:43.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\4\\source.cpp",
               "RelativeDocumentMoniker": "4\\source.cpp",
@@ -86,12 +95,11 @@
               "RelativeToolTip": "4\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-12T00:55:27.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T00:55:27.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\3\\source.cpp",
               "RelativeDocumentMoniker": "3\\source.cpp",
@@ -99,12 +107,11 @@
               "RelativeToolTip": "3\\source.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-12T00:41:08.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T00:41:08.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\2\\source.cpp",
               "RelativeDocumentMoniker": "2\\source.cpp",
@@ -112,21 +119,19 @@
               "RelativeToolTip": "2\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T22:06:35.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:06:35.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\1\\source.cpp",
               "RelativeDocumentMoniker": "1\\source.cpp",
               "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\2025-cpp\\11.29.2025 homework 9\\1\\source.cpp",
               "RelativeToolTip": "1\\source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-28T16:56:40.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T16:56:40.463Z"
             }
           ]
         },
